@@ -1,0 +1,19 @@
+{
+  "name": "hasfrontendendedyet.com",
+  "version": "0.0.1",
+  "description": "Has front-end ended yet?",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlozovei/hasfrontendendedyet.com.git"
+  },
+  "author": "Julio Lozovei <jlozovei@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jlozovei/hasfrontendendedyet.com/issues"
+  },
+  "homepage": "https://github.com/jlozovei/hasfrontendendedyet.com#readme"
+}
